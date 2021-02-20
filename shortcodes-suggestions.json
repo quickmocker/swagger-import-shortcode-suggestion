@@ -9,8 +9,6 @@
     "description": "(fakeSentence:30)",
     "id": "(uniqueId)",
     "ip": "(fakeIpv4)",
-    "ipAddress": "(fakeIpv4)",
-    "ip_address": "(fakeIpv4)",
     "message": "(fakeSentence:10)",
     "pass": "(randomString:8)",
     "password": "(randomString:8)",
@@ -18,8 +16,8 @@
     "role": "(shuffle:guest:user:admin)",
     "status": "(shuffle:public:private)",
     "subject": "(fakeSentence:5)",
-    "tag": "(fakeWord)",
     "tags": "(fakeWords:3:1)",
+    "tag": "(fakeWord)",
     "title": "(fakeSentence:5)",
     "type": "(shuffle:type1:type2:type3)",
     "unit": "(fakeWord)"
